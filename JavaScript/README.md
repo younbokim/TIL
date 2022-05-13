@@ -1,6 +1,6 @@
 # JavaScript
 
-## 학습 관련 참고 사이트  
+## JaveScript 관련 학습 내용들을 정리한 페이지입니다.
 
 ### 모던자바스크립트([URL](https://ko.javascript.info))
 
