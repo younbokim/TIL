@@ -3,6 +3,8 @@
 ## JaveScript 관련 학습 내용들을 정리한 페이지입니다.
 
 
+
+변수[[링크](변수.md)]
 연산자[[링크](연산자.md)]
 
 ### 모던자바스크립트([URL](https://ko.javascript.info))
