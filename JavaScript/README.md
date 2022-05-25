@@ -11,3 +11,6 @@
 
 코드 한 줄 여러 줄로 나눠 쓰기([링크](https://hashcode.tistory.com/270))
 정규표현식 관련 참고 블로그([링크](https://curryyou.tistory.com/234))
+
+동기 및 비동기 참고 링크
+[[ㄴㄴ](https://elvanov.com/2597)]
